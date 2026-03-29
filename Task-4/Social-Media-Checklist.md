@@ -14,3 +14,8 @@
 3. Don’t believe or spread unverified news or rumors
 4. Don’t waste excessive time scrolling (avoid addiction)
 5. Don’t post anything that could harm your reputation or future career
+
+
+##Created By 
+Rudra Kumar Pathak |
+VIT Bhopal University
