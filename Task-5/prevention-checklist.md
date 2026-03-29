@@ -19,6 +19,13 @@
 4. Enable transaction alerts on your banking apps for instant updates.
 
 -----
+### 📱 Social Media Safety
+1. ✅ Never accept friend requests from unknown people
+2. ✅ Keep your personal information private on 
+   all platforms
+3. ✅ Never click on suspicious links received via 
+   WhatsApp or SMS
+-----
 ## 🚨 If Something Goes Wrong
 1. Immediately report fraud at the National Cyber Crime Portal: cybercrime.gov.in
 2. Call the Cyber Crime Helpline: 1930 (available across India)
